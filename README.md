@@ -1,10 +1,11 @@
-# Assignment 1 Starter Project
+# assignment web app1 development 
+This app is about skincare products that are rated from 5 to 1 stars for the best suitable products for your skin and to you liking.
 
-Use this starter project as the basis for Assignment One
 
-You should: 
-
-- Download this project from GitHub as a ZIP file
-- Complete the CA1 starter lab to set up your own GitHub repo for Assignment 1
-- Edit the files with your own content
+## technologies 
+- HTML
+- css
+- JAVASCRIPT
+- node.js
+- JSON 
 
