@@ -1,0 +1,31 @@
+{
+  "employees" : [
+       {
+        "name":"Lilia",
+        "fullname":"Lilia Merabet",
+        "image":"/lilia.jpg",
+        "joined":2012,
+        "job":"Web Developer",
+        "city":"Waterford",
+		"mates": 35
+       },
+       {
+        "name":"Helen",
+        "fullname":"Helen Hess",
+        "image":"/helen.jpg",
+        "joined":2013,
+        "job":"Art Director",
+        "city":"New York",
+	    "mates": 22
+       },
+       {
+        "name":"Jenny",
+        "fullname":"Jenny Howe",
+        "image":"/jenny.jpg",
+        "joined":2014,
+        "job":"UX Designer",
+        "city":"Manhatten",
+		"mates": 30
+       }
+      ]
+}

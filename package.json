@@ -1,0 +1,28 @@
+{
+  "name": "ca1-app",
+  "version": "1.0.0",
+  "description": "CA1 starter app",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "dependencies": {
+    "cloudinary": "^2.10.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-fileupload": "^1.5.2",
+    "express-handlebars": "^8.0.7",
+    "lowdb": "^7.0.1",
+    "uuid": "^14.0.0",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}

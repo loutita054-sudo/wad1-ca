@@ -1,0 +1,38 @@
+{{> menu id="dashboard"}}
+
+<section class="ui left aligned middle aligned segment">
+  
+  <h2>skincare App Dashboard</h2>
+
+  {{#each skincareItems}}
+  
+    <section class="ui left aligned middle aligned scrolling segment">
+
+      <h3 class="ui header">
+        {{uppercase category}}
+      </h3> 
+
+      Rating: {{rating}} stars <br>     
+
+      Total Products : {{products.length}} <br> 
+
+      {{#if date}}
+        <br>
+        <i class="calendar alternate outline icon"></i>
+        Created on <i>{{formatDate date}}</i>
+        <br>
+      {{/if}}
+      
+      <a href="/skincare/{{id}}"> <i class="ui open folder black icon"></i> </a>
+      <a href="/dashboard/deleteskincare/{{id}}">
+        <i class="ui trash black icon"></i>
+      </a>
+
+    </section>
+  
+  {{/each}}
+
+  {{> addskincare}}
+
+</section>
+

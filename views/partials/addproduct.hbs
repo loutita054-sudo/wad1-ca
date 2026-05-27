@@ -1,0 +1,15 @@
+<form class="ui stacked segment form" action="/category/{{id}}/addproduct" method="POST">
+  <div class="two fields">
+    <div class="field">
+      <label>Product Name</label>
+      <input type="text" name="title" autofocus required title="Please include a valid Product Name"
+        placeholder="Product Name">
+    </div>
+    <div class="field">
+      <label>Brand</label>
+      <input type="text" name="brand" required title="Please include a valid Brand"
+        placeholder="Brand">
+    </div>
+  </div>
+  <button class="ui blue submit button">Add Product</button>
+</form>

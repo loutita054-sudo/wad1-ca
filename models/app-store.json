@@ -1,0 +1,17 @@
+{
+  "info": {
+    "appTitle": "Skin Care Store",
+    "version": 0.2,
+    "creators": [
+      {
+        "name": "Serine Louai",
+        "role": "Web Developer"
+      },
+      {
+        "name": "S.L. Other",
+        "role": "Web Developer"
+      }
+    ],
+    "location": "Waterford"
+  } 
+}

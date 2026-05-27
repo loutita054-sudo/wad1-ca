@@ -1,0 +1,32 @@
+{{#if products}}
+
+  <table class="ui unstackable striped table">
+    <thead>
+      <tr>
+        <th>Product</th>
+        <th>Brand</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each products}}
+        <tr>
+          <td>{{uppercase product}}</td>
+          <td>{{uppercase brand}}</td>
+          <td class="center aligned">
+            <a href="/skincare/{{../id}}/deleteproduct/{{id}}" title="Delete product">
+              <i class="ui black trash icon"></i>
+            </a>
+          </td>
+        </tr>
+      {{/each}}
+    </tbody>
+  </table>
+
+  {{else}}
+    <h3 class="ui message">
+      Empty skincare collection! 
+    </h3>
+
+{{/if}}
+ 

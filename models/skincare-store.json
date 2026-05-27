@@ -1,0 +1,26 @@
+{
+  "skincareCollection": [
+    {
+      "userid": "some-user-id",
+      "id": "some-item-id",
+      "category": "Moisturiser",
+      "rating": 4,
+      "products": [],
+      "date": "2026-04-10T14:30:34.112Z"
+    },
+    {
+      "userid": "0ba3cbcd-d999-4745-947a-db2b926e30a6",
+      "id": "dc656e5a-f4b8-4d60-96e4-1eaae2c773cd",
+      "category": "oil",
+      "rating": 4,
+      "date": "2026-05-27T09:40:40.399Z",
+      "products": [
+        {
+          "id": "ffb0927e-3b92-4067-bb7d-b96b82c702c8",
+          "product": "e",
+          "brand": "5"
+        }
+      ]
+    }
+  ]
+}

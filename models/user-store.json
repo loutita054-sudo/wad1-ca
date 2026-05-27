@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "firstName": "homer",
+      "lastName": "simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "id": "3ad52697-6d98-4d80-8273-084de55a86c0"
+    },
+    {
+      "firstName": "marge",
+      "lastName": "simpson",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "id": "2b6f0989-7b7f-4a38-ad26-aa06b922d751"
+    },
+    {
+      "firstName": "serine",
+      "lastName": "louai",
+      "email": "serinelouai634@gmail.com",
+      "password": "180906",
+      "id": "0ba3cbcd-d999-4745-947a-db2b926e30a6"
+    },
+    {
+      "firstName": "serine",
+      "lastName": "louai",
+      "email": "serinelouai634@gmail.com",
+      "password": "140379",
+      "id": "4a759391-857a-4446-9721-941c730b26ba"
+    },
+    {
+      "firstName": "serine",
+      "lastName": "louai",
+      "email": "serinelouai634@gmail.com",
+      "password": "14031979",
+      "id": "f8673b4d-52af-486a-b2fe-b6d33d9d86cc"
+    },
+    {
+      "firstName": "serine",
+      "lastName": "louai",
+      "email": "serinelouai634@gmail.com",
+      "password": "140379",
+      "id": "158945b9-1eb5-49ae-bd1e-a2cf0e264279"
+    },
+    {
+      "firstName": "serine",
+      "lastName": "louai",
+      "email": "serinelouai634@gmail.com",
+      "password": "140379",
+      "id": "4203fcfd-ce3b-440c-90b4-b286ccff5e0c"
+    },
+    {
+      "firstName": "Mary",
+      "lastName": "lyng",
+      "email": "mary.lyng@setu.ie",
+      "password": "Trustno1",
+      "id": "027ec5a8-2801-4f93-bfa9-58b12f17d315"
+    },
+    {
+      "firstName": "serine",
+      "lastName": "louai",
+      "email": "serinelouai634@gmail.com",
+      "password": "140374",
+      "id": "2e098a55-851e-445b-a3b7-7174cf823c7c"
+    }
+  ]
+}

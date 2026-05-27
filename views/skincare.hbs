@@ -1,0 +1,16 @@
+{{> menu id="dashboard"}}
+
+{{#with singleSkincare}}
+
+  <section class="ui center aligned middle aligned scrolling segment">
+    <h2 class="ui header">
+      {{uppercase category}}
+    </h2>
+    {{> listproduct}}
+  </section>
+
+  <section class="ui center aligned middle aligned segment">
+    {{> addproduct}}
+  </section>
+
+{{/with}}
